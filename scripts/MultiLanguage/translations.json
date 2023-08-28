@@ -1,0 +1,920 @@
+{
+	"fr": {
+		"Navbar": {
+			"About_me": "A propos de moi",
+			"Skills": "Compétences",
+			"Schooling": "Scolarité",
+			"Professional_career": "Carrière professionnelle",
+			"Portfolio": "Portfolio",
+			"Travels": "Voyages",
+			"Contact": "Contact"
+		},
+		"About_me": {
+			"About_me_title1": "A propos de moi",
+			"Who_i_am_title2": "Qui suis-je ?",
+			"Who_i_am_paragraph": "Je suis un étudiant en troisième année à l'école d'ingénieur CESI de Vandoeuvre-les-Nancy, spécialisé en informatique. Passionné depuis toujours par le monde de l'informatique, j'ai eu l'occasion de développer mes compétences dans de nombreux domaines grâce aux différents projets que j'ai menés et à mes différentes expériences professionnelles.",
+			"Personals_informations_title2": "Informations personnelles",
+			"Personals_informations_content": {
+				"Birth_date": "Date de naissance : 31 juillet 2002",
+				"Age": "Age : 20 ans",
+				"Gender": "Genre : Homme",
+				"Pronoun": "Pronom : Lui/Il",
+				"Phone": "Téléphone : +33 7 81 70 56 39",
+				"Email": "E-mail : quentin.jolly.pro@gmail.com",
+				"Address": "Adresse : 18 lotissement le grand jardin, 54670, Malleloy, France",
+				"Nationality": "Nationalité : Française",
+				"Studies": "Etudes : Etude d'ingénieurs spécialisé en informatique"
+			},
+			"Officials_documents_title2": "Mes documents officiels",
+			"Officials_documents_content": {
+				"Driving_license": "Permis B + voiture",
+				"Passport": "Passeport français"
+			}
+		},
+		"Skills": {
+			"Skills_title1": "Compétences",
+			"General_skills_title2": "Compétences générales",
+			"General_skills_content": {
+				"Organization": "Organisation",
+				"Teamwork": "Travail d'équipe",
+				"Adaptability": "Capacité d'adaptation"
+			},
+			"Languages_title2": "Langues",
+			"Languages_content": {
+				"French": "Français",
+				"English": "Anglais",
+				"Italian": "Italien"
+			},
+			"Computing_title2": "Informatique",
+			"Computing_content": {
+				"Office_suite_title3": "Microsoft Office",
+				"Office_suite_content": {
+					"Word": "Word",
+					"PowerPoint": "PowerPoint",
+					"Excel": "Excel",
+					"Teams": "Teams",
+					"Visio": "Visio"
+				},
+				"System_administration_title3": "Administration système",
+				"System_administration_content": {
+					"VMware vSphere": "VMware vSphere",
+					"Active Directory": "Active Directory",
+					"Zabbix": "Zabbix",
+					"Centreon": "Centreon",
+					"Docker & Portainer": "Docker & Portainer",
+					"Apache HTTP Server": "Apache HTTP Server"
+				},
+				"Web_development_title3": "Développement web",
+				"Web_development_content": {
+					"HTML5": "HTML5",
+					"CSS": "CSS",
+					"JavaScript": "JavaScript",
+					"Bootstrap": "Bootstrap"
+				},
+				"Databases_title3": "Bases de données",
+				"Databases_content": {
+					"MySQL": "MySQL",
+					"SQLServer": "SQLServer",
+					"PHP": "PHP",
+					"PostgreSQL": "PostgreSQL",
+					"Oracle database": "Bases de données Oracle"
+				},
+				"Operating_systems_title3": "Systèmes d'exploitations",
+				"Operating_systems_content": {
+					"Linux Debian": "Linux Debian",
+					"Linux Ubuntu": "Linux Ubuntu",
+					"Linux CentOS": "Linux CentOS",
+					"Windows 10": "Windows 10",
+					"Windows 8": "Windows 8",
+					"Windows 7": "Windows 7",
+					"Windows server 2019": "Windows server 2019",
+					"Windows server 2016": "Windows server 2016",
+					"Windows server 2012 R2": "Windows server 2012 R2",
+					"Windows server 2008 R2": "Windows server 2008 R2"
+				},
+				"Programming_title3": "Programmation",
+				"Programming_content": {
+					"C_language": "C (Langage de programmation)",
+					"C++": "C++",
+					"C_sharp": "C#",
+					"Python": "Python",
+					"PowerShell": "PowerShell"
+				}
+			}
+		},
+	
+		"Schooling": {
+			"Schooling_title1": "Scolarité",
+			"Engineering_school_title2": "École d'ingénieurs",
+			"Engineering_school_content": {
+				"Date": "En cours",
+				"Location": "CESI École d'ingénieurs, Vandœuvre-lès-Nancy, France",
+				"Degree": "Diplôme d'ingénieur spécialisé en informatique"
+			},
+			"High_school_title2": "Baccalauréat général",
+			"High_school_content": {
+				"Date": "Juin 2020",
+				"Location": "Lycée Henri Poincaré, Nancy, France",
+				"Degree": "Baccalauréat scientifique - spécialité Informatique et Science du Numérique"
+			},
+			"College_title2": "Brevet des collèges",
+			"College_content": {
+				"Date": "Juin 2017",
+				"Location": "Collège, Louis Marin, Custines, France",
+				"Degree": "Brevet des collèges, obtenu avec mention Très bien"
+			}
+		},
+		
+		"Professional_career": {
+			"Professional_career_title1": "Carrière professionnelle",
+			"DEFI_internship_title2": "Stage en informatique",
+			"DEFI_internship_content": {
+				"Date": {
+					"Start":"Janvier 2023",
+					"End": "Avril 2023"
+				},
+				"Location": "DEFI Informatique, Maxeville, France",
+				"Summary": "J'ai effectué un stage de 4 mois au sein de la PME DEFI Informatique en 2023. Cette expérience professionnelle m'a permis de découvrir l'environnement des petites entreprises et les contraintes auxquelles elles sont confrontées.",
+				"My_actions_title3": "Mes actions chez DEFI Informatique",
+				"My_actions_content": {
+					"Action1": "Amélioration des composants physiques de deux serveurs (Dell PowerEdge R430 (2014) & HP ProLiant DL360 G7 (2012)).",
+					"Action2": "Mise à jour des drivers de chacun d'entre eux.",
+					"Action3": "Installation d'ESXi comme système d'exploitation.",
+					"Action4": "Création et configuration de machines virtuelles (Windows server 2019, Windows 10, Debian 11, Ubuntu 22.04).",
+					"Action5": "Configuration et installation de la solution de supervision Zabbix.",
+					"Action6": "Configuration et installation de deux portainers (un pour les applications dockerisées (GLPI, Bookstack), un pour hébergé le reverse proxy (Nginx)).",
+					"Action7": "Résolution de bugs sur l'infrastructure distante par l'intermédiaire de scripts (OVH).",
+					"Action8": "Support pour les clients hébergés."
+				}
+			},
+			"ICL_internship_FTC_title2": "Stage en informatique | Contrat à durée déterminée",
+			"ICL_internship_FTC_content": {
+				"Date": {
+					"Start":"Avril 2022",
+					"End": "Août 2022"
+				},
+				"Location": "Institut de Cancérologie de Lorraine, Vandoeuvre-les-Nancy, France",
+				"Summary": "J'ai effectué un stage de 4 mois à l'Institut de Cancérologie de Lorraine, d'avril à juillet 2022. Cette expérience professionnelle m'a permis d'affiner mes compétences et de décrocher un CDD en août 2022.",
+				"My_actions_title3": "Mes actions à l'Institut de Cancérologie de Lorraine",
+				"My_actions_content": {
+					"Action1": "Script PowerShell permettant de vérifier la l'organisation des serveurs Active Directory (générant un rapport Excel).",
+					"Action2": "Envoie de document par mail par l'intermédiaire de PowerShell.",
+					"Action3": "Script PowerShell effectuant des actions grpahiques pour récupérer des performances d'applications.",
+					"Action4": "Manipulation et organisation de données dans des bases de données Oracle, des CSV et des fichiers Excel (PowerShell).",
+					"Action5": "Participation à la configuration de la solution de supervision ServiceNav.",
+					"Action6": "Mise en place de maintenances automatique pour les serveurs supervisés par ServiceNav via l'API Rest du créateur."
+				}
+			},
+			"Carrefour_Custines_FTC_title2": "Travail saisonnier",
+			"Carrefour_Custines_FTC_content": {
+				"Date": {
+					"Start":"Juillet 2021",
+					"End": "Août 2021"
+				},
+				"Location": "Carrefour, Custines, France",
+				"Summary": "Durant l'été 2021, j'ai pu travailler dans un supermarché Carrefour, ce qui m'a permis d'améliorer encore un peu plus les compétences que j'avais acquises l'année précédente.",
+				"My_actions_title3": "Mes actions chez Carrefour, à Custines",
+				"My_actions_content": {
+					"Action1": "Manipuler de l'argent sous forme de chèques-repas, de chèques et d'espèces.",
+					"Action2": "Mise en rayon des articles.",
+					"Action3": "Gestion de la quantité en rayon des articles.",
+					"Action4": "Gestion des livraisons.",
+					"Action5": "Aide et conseil aux clients."
+				}
+			},
+			"Carrefour_BAD_FTC_title2": "Travail saisonnier",
+			"Carrefour_BAD_FTC_content": {
+				"Date": "Août 2020",
+				"Location": "Carrefour, Bouxières-aux-Dames, France",
+				"Summary": "En août 2020, j'ai eu l'opportunité de travailler dans un supermarché Carrefour. Cette expérience m'a permis d'affiner un certain nombre de compétences, comme le travail en équipe et l'organisation, mais aussi d'en développer de nouvelles, comme les relations clients-employés.",
+				"My_actions_title3": "Mes actions chez Carrefour, à Bouxières-aux-Dames",
+				"My_actions_content": {
+					"Action1": "Manipuler de l'argent sous forme de chèques-repas, de chèques et d'espèces.",
+					"Action2": "Mise en rayon des articles.",
+					"Action3": "Gestion de la quantité en rayon des articles.",
+					"Action4": "Gestion des livraisons.",
+					"Action5": "Aide et conseil aux clients.",
+					"Action6": "Rendu de colis aux clients après une vérification des papiers d'identité."
+				}
+			},
+			"Atoutbio_internship_title2": "Stage en laboratoire",
+			"Atoutbio_internship_content": {
+				"Date": "2016",
+				"Location": "Atoutbio, Nancy, France",
+				"Summary": "J'ai effectué mon stage obligatoire de troisième au sein du laboratoire Atoutbio à Nancy. Ce stage m'a permis de découvrir des métiers méconnus et de développer des compétences telles que le travail en équipe, le sens de l'organisation et la capacité d'adaptation.",
+				"My_actions_title3": "Mes actions chez Atoutbio",
+				"My_actions_content": {
+					"Action1": "Observer le travail des techniciens de laboratoire et prendre des notes sur leurs actions et leur organisation.",
+					"Action2": "Scanner et préparer des échantillons de sang pour effectuer des analyses.",
+					"Action3": "Calculer le nombre de globules blancs et de globules rouges dans un échantillon via une machine."
+				}
+			}
+		},
+		"Portfolio": {
+			"Portfolio_title1": "Portfolio",
+			"School_projects_title2": "Projets scolaires",
+			"School_projects_content": {
+				"C_project_popup": {
+					"Popup_title": "Station météo en C",
+					"Summary_title3": "Résumé",
+					"Summary_content": "Le but de ce projet était de créer une station météo en C à l'aide d'une carte Arduino. Pour ce faire, nous disposions de divers éléments tels que des fils électriques, une balise GPS et divers capteurs. Ces données devaient être enregistrées automatiquement sur une carte SD intégrée à l'Arduino.",
+					"Skills_Worked_title3": "Compétences travaillées",
+					"Skills_Worked_content": {
+						"Skill1": "Travail d'équipe",
+						"Skill2": "Organisation",
+						"Skill3": "Communication",
+						"Skill4": "Programmation en C",
+						"Skill5": "Création de diagrammes UML",
+						"Skill6": "Notions en électricité",
+						"Skill7": "Notions en programmation embarquées"
+					}
+				},
+				"C++_project_popup": {
+					"Popup_title": "Application de gestion en C++",
+					"Summary_title3": "Résumé",
+					"Summary_content": "L'objectif de ce projet était de développer une application C++ permettant de gérer différents éléments d'une entreprise, tels que les stocks, les commandes et les clients, ainsi que de produire des statistiques basées sur différents paramètres.",
+					"Skills_Worked_title3": "Compétences travaillées",
+					"Skills_Worked_content": {
+						"Skill1": "Travail d'équipe",
+						"Skill2": "Organisation",
+						"Skill3": "Communication",
+						"Skill4": "Programmation en C++",
+						"Skill5": "Création de diagrammes UML",
+						"Skill6": "Création d'interfaces Windows Forms",
+						"Skill7": "Travail sur SQL Server"
+					}
+				},
+				"C_sharp_project_popup": {
+					"Popup_title": "Application de sauvegarde en C#",
+					"Summary_title3": "Résumé",
+					"Summary_content": "L'objectif de ce projet était de développer une application de sauvegarde de documents. Lors d'une sauvegarde, chaque action est enregistrée dans un fichier et tous les éléments sauvegardés sont automatiquement cryptés.",
+					"Skills_Worked_title3": "Compétences travaillées",
+					"Skills_Worked_content": {
+						"Skill1": "Travail d'équipe",
+						"Skill2": "Organisation",
+						"Skill3": "Communication",
+						"Skill4": "Programmation en C#",
+						"Skill5": "Création de diagrammes UML",
+						"Skill6": "Création d'interfaces WPF",
+						"Skill7": "Travail sur les différents design patterns (Patrons de conception)",
+						"Skill8": "Travail sur les patterns d'architecture (MVC, MVVM)"
+					}
+				},
+				"Network_project_popup": {
+					"Popup_title": "Mettre en place un réseau complet",
+					"Summary_title3": "Résumé",
+					"Summary_content": "L'objectif de ce projet était de mettre en place un réseau informatique sécurisé dans une ville fictive à l'aide du logiciel Packet Tracer de Cisco.",
+					"Skills_Worked_title3": "Compétences travaillées",
+					"Skills_Worked_content": {
+						"Skill1": "Travail d'équipe",
+						"Skill2": "Organisation",
+						"Skill3": "Communication",
+						"Skill4": "Connaitre les différents éléments qui composent un réseau informatique",
+						"Skill5": "Manipulation du Lan et du Wan",
+						"Skill6": "Apprentissage des couches ISO et TCP",
+						"Skill7": "Savoir installer, configurer et relier un pare-feu",
+						"Skill8": "Savoir les différents risques pour un réseau en matière de sécurité",
+						"Skill9": "Apprendre les différents types d'adresses IP et la manière dont les utiliser",
+						"Skill10": "Apprendre à calculer un masque réseau"
+					}
+				},
+				"System_administration_project_popup": {
+					"Popup_title": "Mettre en place une infrastructure informatique",
+					"Summary_title3": "Résumé",
+					"Summary_content": "L'objectif de ce projet était d'apprendre à mettre en place une infrastructure informatique complète au sein d'une entreprise, les différents risques potentiels pour celle-ci et comment s'en protéger.",
+					"Skills_Worked_title3": "Compétences travaillées",
+					"Skills_Worked_content": {
+						"Skill1": "Travail d'équipe",
+						"Skill2": "Organisation",
+						"Skill3": "Communication",
+						"Skill4": "Connaitre les différents éléments qui composent une infrastructure informatique",
+						"Skill5": "Manipulation du Lan et du Wan",
+						"Skill6": "Mise en place d'un VPN fictif",
+						"Skill7": "Mise en place et configuration d'un Active Directory (Avec réplication)",
+						"Skill8": "Mise en place et configuration d'un pare-feu (pfsense)",
+						"Skill9": "Mise en place d'un DMZ",
+						"Skill10": "Mise en place d'un réseau d'ordinateurs liés à l'Active Directory",
+						"Skill11": "Mise en place d'un Centreon"
+					}
+				},
+				"Web_project_popup": {
+					"Popup_title": "Création et mise en ligne d'un site web",
+					"Summary_title3": "Résumé",
+					"Summary_content": "L'objectif de ce projet était de développer un site web en utilisant HTML, PHP, CSS et JavaScript. L'objectif de ce site fictif était de permettre aux entreprises de publier elles-mêmes des offres de stage sur un site auquel les étudiants avaient facilement accès. Tous les accès devaient être filtrés via des comptes utilisateurs et les données contenues dans une base de données PHP sécurisée.",
+					"Skills_Worked_title3": "Compétences travaillées",
+					"Skills_Worked_content": {
+						"Skill1": "Travail d'équipe",
+						"Skill2": "Organisation",
+						"Skill3": "Communication",
+						"Skill4": "Apprendre le HTML",
+						"Skill5": "Apprendre le CSS",
+						"Skill6": "Apprendre le JavaScript",
+						"Skill7": "Apprendre le PHP",
+						"Skill8": "Savoir manipuler Apache HTTP",
+						"Skill9": "Apprendre les requêtes HTTP"
+					}
+				}
+			},
+			"Professional_projects_title2": "Projets professionnels",
+			"Professional_projects_content": {
+				"PowerShell_project_popup": {
+					"Popup_title": "PowerShell & Active Directory",
+					"Summary_title3": "Résumé",
+					"Summary_content": {
+						"Text1": "Le langage de scripting PowerShell m'a été principalement utile lors de mon stage à l'Institut de Cancérologie de Lorraine.",
+						"Text2": "Je l'ai utilisé pour créer plusieurs scripts qui interagissaient notamment avec le système Active Directory de l'hôpital afin de vérifier que les groupes d'utilisateurs ne contenaient pas d'erreurs qui auraient pu compromettre la sécurité de documents confidentiels de l'hôpital. De la même manière, celui-ci m'a également permis de vérifier les listes de diffusions concernant des services complets d'employés, puis dans le projet sur les performances applicatives qui vous est présenté après."
+					},
+					"Skills_Worked_title3": "Compétences travaillées",
+					"Skills_Worked_content": {
+						"Skill1": "Apprentissage en autonomie",
+						"Skill2": "Organisation",
+						"Skill3": "Communication des résultats",
+						"Skill4": "Réalisation de documentation",
+						"Skill5": "Génération automatique de rapports avec envoie par mail",
+						"Skill6": "Programmation en PowerShell",
+						"Skill7": "Création de diagrammes UML",
+						"Skill8": "Manipuler des CSV et des fichiers Excel avec PowerShell",
+						"Skill9": "Formation du personnel au maintient de ces scripts"
+					}
+				},
+				"Performance_project_popup": {
+					"Popup_title": "PowerShell et performances applicatives",
+					"Summary_title3": "Résumé",
+					"Summary_content": "L'objectif de ce projet était de développer un robot effectuant des actions identiques à celles d'un utilisateur sur une application. Ce robot lançait une application, ouvrait différent menus et réalisait des actions graphiques qu'un utilisateur pourrait faire au quotidien, récupérait le temps de chargement des différents menus de l'application et envoyait ensuite ses données vers une base de données Oracle. Le logiciel de supervision ServiceNav de l'Institut de Cancérologie de Lorraine pouvait alors utiliser ces données pour produire des graphiques de performance de l'application. De cette manière, le support informatique pouvait anticiper les lenteurs avant que les utilisateurs n'appellent pour les signaler.",
+					"Skills_Worked_title3": "Compétences travaillées",
+					"Skills_Worked_content": {
+						"Skill1": "Travail en autonomie",
+						"Skill2": "Organisation",
+						"Skill3": "Communication des résultats",
+						"Skill4": "Réalisation de documentation",
+						"Skill5": "Création de diagrammes UML",
+						"Skill6": "Progammation en PowerShell avec AutoIt (sous forme d'addon PowerShell)",
+						"Skill7": "Connexion de base de données à PowerShell",
+						"Skill8": "Connexion entre une solution de supervision et une base de données",
+						"Skill9": "Formation du personnel au maintient de ce script"
+					}
+				},
+				"Monitoring_project_popup": {
+					"Popup_title": "Installation et configuration de supervisions",
+					"Summary_title3": "Résumé",
+					"Summary_content": "Lors de mes précédents stages, j'ai eu l'occasion de mettre en place deux solutions de monitoring : Zabbix et ServiceNav. Ces solutions récupèrent les données de performance des différents serveurs informatiques et produisent ensuite des graphiques pour nous informer de l'évolution de leur état. En cas de problème, une alerte est envoyée pour prévenir l'utilisateur que certaines actions doivent être entreprises sur les serveurs avant que des problèmes plus graves ne surviennent.",
+					"Skills_Worked_title3": "Compétences travaillées",
+					"Skills_Worked_content": {
+						"Skill1": "Travail d'équipe",
+						"Skill2": "Organisation",
+						"Skill3": "Communication",
+						"Skill4": "Apprendre à anticiper les problèmes",
+						"Skill5": "Utilisation d'agents et du service SNMP sur Windows et Linux",
+						"Skill6": "Savoir mettre en place une solution de supervision"
+					}
+				},
+				"Cybersecurity_project_popup": {
+					"Popup_title": "Amélioration des règles de sécurité",
+					"Summary_title3": "Résumé",
+					"Summary_content": "L'objectif de ce projet était d'identifier les failles du système de sécurité de l'Institut de Cancérologie de Lorraine, notamment autour de la politique des mots de passe. Pour améliorer le système, j'ai réduit le délai d'expiration des mots de passe des utilisateurs à 90 jours pour tous les utilisateurs. L'utilisateur voyait apparaitre des popups lui signalant que sont mot de passe allait expirer 1 mois, 2 semaines, 1 semaine, 2 jours puis 24 heures avant l'expiration. Ce projet comprenait également la vérification scénarisée des accès des utilisateurs afin que seuls les utilisateurs autorisés puissent accéder aux documents confidentiels de chaque service hospitaliers.",
+					"Skills_Worked_title3": "Compétences travaillées",
+					"Skills_Worked_content": {
+						"Skill1": "Travail d'équipe",
+						"Skill2": "Travail en autonomie",
+						"Skill3": "Organisation",
+						"Skill4": "Communication",
+						"Skill5": "Comprendre comment s'adresser de manière simple et synthétique aux utilisateurs",
+						"Skill6": "Générer des popups graphiques avec PowerShell via une GPO"
+					}
+				},
+				"VMware_project_popup": {
+					"Popup_title": "ESXi et anciens serveurs",
+					"Summary_title3": "Résumé",
+					"Summary_content": {
+						"Text1": "L'objectif de ce projet était de transformer 2 serveurs reconditionnés(Dell PowerEdge R430 (2014) & HP ProLiant DL360 G7 (2012)). en serveurs ESXi gérés par vCenter.",
+						"Text2": "Pour ce projet, j'ai d'abord dû mettre à jour les composants physiques des serveurs, qui étaient très anciens, puis procéder à la msie à jour des drivers, avant d'installer les ESXi.",
+						"Text3": "J'ai ensuite mis en place l'infrastructure complète qui est aujourd'hui utilisée chez DEFI Informatique en interne."
+					},
+					"Skills_Worked_title3": "Compétences travaillées",
+					"Skills_Worked_content": {
+						"Skill1": "Travail d'équipe",
+						"Skill2": "Travail en autonomie",
+						"Skill3": "Organisation",
+						"Skill4": "Communication",
+						"Skill5": "Recherche de licences d'occasion à bas prix",
+						"Skill6_text": "Connaissance poussées en gestion de serveurs et en virtualisation :",
+						"Skill6_content": {
+							"Skill6_1": "Mettre en place un système RAID-5",
+							"Skill6_2": "Configurer et utiliser IDRAC et ILO",
+							"Skill6_3": "Rendre compatibles ESXi 7.0 et ESXi 6.5 sous un même vCenter",
+							"Skill6_4": "Configurer un serveur Active Directory",
+							"Skill6_5": "Superviser des serveurs et des machines virtuelles",
+						}
+					}
+				},
+				"Docker_project_popup": {
+					"Popup_title": "Installation d'application web",
+					"Summary_title3": "Résumé",
+					"Summary_content": "Le principal avantage de la conteneurisation des applications est le gain de performance qui en résulte. Dans le cadre de ce projet, j'ai mis en place deux machines virtuelles sous Debian 11, chacune hébergeant un Portainer. Leurs rôles respectifs étaient d'héberger, pour le premier, les applications conteneurisées (en particulier GLPI et Bookstack), et, pour le second, un reverse proxy NGINX, permettant un accès sécurisé depuis l'extérieur de l'entreprise.",
+					"Skills_Worked_title3": "Compétences travaillées",
+					"Skills_Worked_content": {
+						"Skill1": "Apprentissage en autonomie",
+						"Skill2": "Travail d'équipe",
+						"Skill3": "Organisation",
+						"Skill4": "Communication",
+						"Skill5": "Améliorer mes compétences en Docker",
+						"Skill6": "Apprendre à utiliser Portainer",
+						"Skill7": "Installation et configuration de NGINX",
+						"Skill8": "Installation et configuration de GLPI",
+						"Skill9": "Installation et configuration de Bookstack"
+					}
+				}
+			}
+		},
+		"Travels": {
+			"Travels_title1": "Voyages",
+			"Italy_title2": "Italie",
+			"Italy_content": {
+				"Text1": "J'ai effectué plusieurs voyages en Italie dans ma vie, que ce soit à l'école ou en famille. Ces voyages m'ont permis de pratiquer la langue locale et de m'ouvrir à la magnifique culture italienne.",
+				"Text2": "J'ai notamment eu l'occasion d'aller dans des villes connues telles que Rome, Venise, Herculanum, Pompei mais aussi dans des villes moins connues, comme Rimini, Bellaria Igea Marina et Bellariva."
+			},
+			"Spain_title2": "Espagne",
+			"Spain_content": "Il y a quelques années, j'ai eu l'occasion d'aller en Espagne, dans la magnifique ville de Salou, où j'ai eu l'occasion de découvrir la culture locale ainsi que de magnifiques bâtiments tels que la tour Vella."
+		},
+		"Contact": {
+			"Contact_title1": "Contact",
+			"Contact_intro": "N'hésitez pas à me contacter.",
+			"My_details": {
+				"Name": "Jolly Quentin",
+				"Address": "18 Lotissement le grand jardin, 54670, Malleloy, France",
+				"Phone": "+33 7 81 70 56 39",
+				"Whatsapp": "+33 7 81 70 56 39",
+				"Email": "quentin.jolly.pro@gmail.com",
+				"Linkedin_text": "Mon profil LinkedIn"
+			},
+			"Contact_form": {
+				"Last_name": "Nom*",
+				"First_name": "Prénom*",
+				"Society": "Société*",
+				"Phone": "Numéro de téléphone*",
+				"Email": "Adresse e-mail*",
+				"Subject": "Sujet du message*",
+				"Message": "Message*"
+			}
+		}
+	},
+	"en": {
+		"Navbar": {
+			"About_me": "About me",
+			"Skills": "Skills",
+			"Schooling": "Schooling",
+			"Professional_career": "Professional Career",
+			"Portfolio": "Portfolio",
+			"Travels": "Travels",
+			"Contact": "Contact"
+		},
+		"About_me": {
+			"About_me_title1": "About Me",
+			"Who_i_am_title2": "Who am I?",
+			"Who_i_am_paragraph": "I am a third-year student at the CESI School of Engineering in Vandoeuvre-les-Nancy, specializing in computer science. I have always been passionate about the world of computers and have had the opportunity to develop my skills in various domains through different projects and professional experiences.",
+			"Personals_informations_title2": "Personal Information",
+			"Personals_informations_content": {
+				"Birth_date": "Date of Birth: July 31, 2002",
+				"Age": "Age: 20 years",
+				"Gender": "Gender: Male",
+				"Pronoun": "Pronouns: He/Him",
+				"Phone": "Phone: +33 7 81 70 56 39",
+				"Email": "E-mail: quentin.jolly.pro@gmail.com",
+				"Address": "Address: 18 Le Grand Jardin, 54670, Malleloy, France",
+				"Nationality": "Nationality: French",
+				"Studies": "Studies: Computer Science Engineering"
+			},
+			"Officials_documents_title2": "My official documents",
+			"Officials_documents_content": {
+				"Driving_license": "Driver's License",
+				"Passport": "French Passport"
+			}
+		},
+		"Skills": {
+			"Skills_title1": "Skills",
+			"General_skills_title2": "General Skills",
+			"General_skills_content": {
+				"Organization": "Organization",
+				"Teamwork": "Teamwork",
+				"Adaptability": "Adaptability"
+			},
+			"Languages_title2": "Languages",
+			"Languages_content": {
+				"French": "French",
+				"English": "English",
+				"Italian": "Italian"
+			},
+			"Computing_title2": "Computing",
+			"Computing_content": {
+				"Office_suite_title3": "Microsoft Office",
+				"Office_suite_content": {
+					"Word": "Word",
+					"PowerPoint": "PowerPoint",
+					"Excel": "Excel",
+					"Teams": "Teams",
+					"Visio": "Visio"
+				},
+				"System_administration_title3": "System administration",
+				"System_administration_content": {
+					"VMware vSphere": "VMware vSphere",
+					"Active Directory": "Active Directory",
+					"Zabbix": "Zabbix",
+					"Centreon": "Centreon",
+					"Docker & Portainer": "Docker & Portainer",
+					"Apache HTTP Server": "Apache HTTP Server"
+				},
+				"Web_development_title3": "Web development",
+				"Web_development_content": {
+					"HTML5": "HTML5",
+					"CSS": "CSS",
+					"JavaScript": "JavaScript",
+					"Bootstrap": "Bootstrap"
+				},
+				"Databases_title3": "Databases",
+				"Databases_content": {
+					"MySQL": "MySQL",
+					"SQLServer": "SQLServer",
+					"PHP": "PHP",
+					"PostgreSQL": "PostgreSQL",
+					"Oracle database": "Oracle Databases"
+				},
+				"Operating_systems_title3": "Operating systems",
+				"Operating_systems_content": {
+					"Linux Debian": "Linux Debian",
+					"Linux Ubuntu": "Linux Ubuntu",
+					"Linux CentOS": "Linux CentOS",
+					"Windows 10": "Windows 10",
+					"Windows 8": "Windows 8",
+					"Windows 7": "Windows 7",
+					"Windows server 2019": "Windows server 2019",
+					"Windows server 2016": "Windows server 2016",
+					"Windows server 2012 R2": "Windows server 2012 R2",
+					"Windows server 2008 R2": "Windows server 2008 R2"
+				},
+				"Programming_title3": "Programming",
+				"Programming_content": {
+					"C_language": "C (Programming language)",
+					"C++": "C++",
+					"C_sharp": "C#",
+					"Python": "Python",
+					"PowerShell": "PowerShell"
+				}
+			}
+		},
+	
+		"Schooling": {
+			"Schooling_title1": "Schooling",
+			"Engineering_school_title2": "Engineering school",
+			"Engineering_school_content": {
+				"Date": "In progress",
+				"Location": "CESI Engineering School, Vandœuvre-lès-Nancy, France",
+				"Degree": "Engineering degree specialized in computer science"
+			},
+			"High_school_title2": "General baccalaureate",
+			"High_school_content": {
+				"Date": "June 2020",
+				"Location": "Lycée Henri Poincaré, Nancy, France",
+				"Degree": "Baccalauréat scientifique - spécialité Informatique et Science du Numérique"
+			},
+			"College_title2": "Brevet des collèges",
+			"College_content": {
+				"Date": "Juin 2017",
+				"Location": "Collège, Louis Marin, Custines, France",
+				"Degree": "Brevet des collèges, obtenu avec mention Très bien"
+			}
+		},
+		
+		"Professional_career": {
+			"Professional_career_title1": "Carrière professionnelle",
+			"DEFI_internship_title2": "Stage en informatique",
+			"DEFI_internship_content": {
+				"Date": {
+					"Start":"Janvier 2023",
+					"End": "Avril 2023"
+				},
+				"Location": "DEFI Informatique, Maxeville, France",
+				"Summary": "J'ai effectué un stage de 4 mois au sein de la PME DEFI Informatique en 2023. Cette expérience professionnelle m'a permis de découvrir l'environnement des petites entreprises et les contraintes auxquelles elles sont confrontées.",
+				"My_actions_title3": "Mes actions chez DEFI Informatique",
+				"My_actions_content": {
+					"Action1": "Amélioration des composants physiques de deux serveurs (Dell PowerEdge R430 (2014) & HP ProLiant DL360 G7 (2012)).",
+					"Action2": "Mise à jour des drivers de chacun d'entre eux.",
+					"Action3": "Installation d'ESXi comme système d'exploitation.",
+					"Action4": "Création et configuration de machines virtuelles (Windows server 2019, Windows 10, Debian 11, Ubuntu 22.04).",
+					"Action5": "Configuration et installation de la solution de supervision Zabbix.",
+					"Action6": "Configuration et installation de deux portainers (un pour les applications dockerisées (GLPI, Bookstack), un pour hébergé le reverse proxy (Nginx)).",
+					"Action7": "Résolution de bugs sur l'infrastructure distante par l'intermédiaire de scripts (OVH).",
+					"Action8": "Support pour les clients hébergés."
+				}
+			},
+			"ICL_internship_FTC_title2": "Stage en informatique | Contrat à durée déterminée",
+			"ICL_internship_FTC_content": {
+				"Date": {
+					"Start":"Avril 2022",
+					"End": "Août 2022"
+				},
+				"Location": "Institut de Cancérologie de Lorraine, Vandoeuvre-les-Nancy, France",
+				"Summary": "J'ai effectué un stage de 4 mois à l'Institut de Cancérologie de Lorraine, d'avril à juillet 2022. Cette expérience professionnelle m'a permis d'affiner mes compétences et de décrocher un CDD en août 2022.",
+				"My_actions_title3": "Mes actions à l'Institut de Cancérologie de Lorraine",
+				"My_actions_content": {
+					"Action1": "Script PowerShell permettant de vérifier la l'organisation des serveurs Active Directory (générant un rapport Excel).",
+					"Action2": "Envoie de document par mail par l'intermédiaire de PowerShell.",
+					"Action3": "Script PowerShell effectuant des actions grpahiques pour récupérer des performances d'applications.",
+					"Action4": "Manipulation et organisation de données dans des bases de données Oracle, des CSV et des fichiers Excel (PowerShell).",
+					"Action5": "Participation à la configuration de la solution de supervision ServiceNav.",
+					"Action6": "Mise en place de maintenances automatique pour les serveurs supervisés par ServiceNav via l'API Rest du créateur."
+				}
+			},
+			"Carrefour_Custines_FTC_title2": "Travail saisonnier",
+			"Carrefour_Custines_FTC_content": {
+				"Date": {
+					"Start":"Juillet 2021",
+					"End": "Août 2021"
+				},
+				"Location": "Carrefour, Custines, France",
+				"Summary": "Durant l'été 2021, j'ai pu travailler dans un supermarché Carrefour, ce qui m'a permis d'améliorer encore un peu plus les compétences que j'avais acquises l'année précédente.",
+				"My_actions_title3": "Mes actions chez Carrefour, à Custines",
+				"My_actions_content": {
+					"Action1": "Manipuler de l'argent sous forme de chèques-repas, de chèques et d'espèces.",
+					"Action2": "Mise en rayon des articles.",
+					"Action3": "Gestion de la quantité en rayon des articles.",
+					"Action4": "Gestion des livraisons.",
+					"Action5": "Aide et conseil aux clients."
+				}
+			},
+			"Carrefour_BAD_FTC_title2": "Travail saisonnier",
+			"Carrefour_BAD_FTC_content": {
+				"Date": "Août 2020",
+				"Location": "Carrefour, Bouxières-aux-Dames, France",
+				"Summary": "En août 2020, j'ai eu l'opportunité de travailler dans un supermarché Carrefour. Cette expérience m'a permis d'affiner un certain nombre de compétences, comme le travail en équipe et l'organisation, mais aussi d'en développer de nouvelles, comme les relations clients-employés.",
+				"My_actions_title3": "Mes actions chez Carrefour, à Bouxières-aux-Dames",
+				"My_actions_content": {
+					"Action1": "Manipuler de l'argent sous forme de chèques-repas, de chèques et d'espèces.",
+					"Action2": "Mise en rayon des articles.",
+					"Action3": "Gestion de la quantité en rayon des articles.",
+					"Action4": "Gestion des livraisons.",
+					"Action5": "Aide et conseil aux clients.",
+					"Action6": "Rendu de colis aux clients après une vérification des papiers d'identité."
+				}
+			},
+			"Atoutbio_internship_title2": "Stage en laboratoire",
+			"Atoutbio_internship_content": {
+				"Date": "2016",
+				"Location": "Atoutbio, Nancy, France",
+				"Summary": "J'ai effectué mon stage obligatoire de troisième au sein du laboratoire Atoutbio à Nancy. Ce stage m'a permis de découvrir des métiers méconnus et de développer des compétences telles que le travail en équipe, le sens de l'organisation et la capacité d'adaptation.",
+				"My_actions_title3": "Mes actions chez Atoutbio",
+				"My_actions_content": {
+					"Action1": "Observer le travail des techniciens de laboratoire et prendre des notes sur leurs actions et leur organisation.",
+					"Action2": "Scanner et préparer des échantillons de sang pour effectuer des analyses.",
+					"Action3": "Calculer le nombre de globules blancs et de globules rouges dans un échantillon via une machine."
+				}
+			}
+		},
+		"Portfolio": {
+			"Portfolio_title1": "Portfolio",
+			"School_projects_title2": "Projets scolaires",
+			"School_projects_content": {
+				"C_project_popup": {
+					"Popup_title": "Station météo en C",
+					"Summary_title3": "Résumé",
+					"Summary_content": "Le but de ce projet était de créer une station météo en C à l'aide d'une carte Arduino. Pour ce faire, nous disposions de divers éléments tels que des fils électriques, une balise GPS et divers capteurs. Ces données devaient être enregistrées automatiquement sur une carte SD intégrée à l'Arduino.",
+					"Skills_Worked_title3": "Compétences travaillées",
+					"Skills_Worked_content": {
+						"Skill1": "Travail d'équipe",
+						"Skill2": "Organisation",
+						"Skill3": "Communication",
+						"Skill4": "Programmation en C",
+						"Skill5": "Création de diagrammes UML",
+						"Skill6": "Notions en électricité",
+						"Skill7": "Notions en programmation embarquées"
+					}
+				},
+				"C++_project_popup": {
+					"Popup_title": "Application de gestion en C++",
+					"Summary_title3": "Résumé",
+					"Summary_content": "L'objectif de ce projet était de développer une application C++ permettant de gérer différents éléments d'une entreprise, tels que les stocks, les commandes et les clients, ainsi que de produire des statistiques basées sur différents paramètres.",
+					"Skills_Worked_title3": "Compétences travaillées",
+					"Skills_Worked_content": {
+						"Skill1": "Travail d'équipe",
+						"Skill2": "Organisation",
+						"Skill3": "Communication",
+						"Skill4": "Programmation en C++",
+						"Skill5": "Création de diagrammes UML",
+						"Skill6": "Création d'interfaces Windows Forms",
+						"Skill7": "Travail sur SQL Server"
+					}
+				},
+				"C_sharp_project_popup": {
+					"Popup_title": "Application de sauvegarde en C#",
+					"Summary_title3": "Résumé",
+					"Summary_content": "L'objectif de ce projet était de développer une application de sauvegarde de documents. Lors d'une sauvegarde, chaque action est enregistrée dans un fichier et tous les éléments sauvegardés sont automatiquement cryptés.",
+					"Skills_Worked_title3": "Compétences travaillées",
+					"Skills_Worked_content": {
+						"Skill1": "Travail d'équipe",
+						"Skill2": "Organisation",
+						"Skill3": "Communication",
+						"Skill4": "Programmation en C#",
+						"Skill5": "Création de diagrammes UML",
+						"Skill6": "Création d'interfaces WPF",
+						"Skill7": "Travail sur les différents design patterns (Patrons de conception)",
+						"Skill8": "Travail sur les patterns d'architecture (MVC, MVVM)"
+					}
+				},
+				"Network_project_popup": {
+					"Popup_title": "Mettre en place un réseau complet",
+					"Summary_title3": "Résumé",
+					"Summary_content": "L'objectif de ce projet était de mettre en place un réseau informatique sécurisé dans une ville fictive à l'aide du logiciel Packet Tracer de Cisco.",
+					"Skills_Worked_title3": "Compétences travaillées",
+					"Skills_Worked_content": {
+						"Skill1": "Travail d'équipe",
+						"Skill2": "Organisation",
+						"Skill3": "Communication",
+						"Skill4": "Connaitre les différents éléments qui composent un réseau informatique",
+						"Skill5": "Manipulation du Lan et du Wan",
+						"Skill6": "Apprentissage des couches ISO et TCP",
+						"Skill7": "Savoir installer, configurer et relier un pare-feu",
+						"Skill8": "Savoir les différents risques pour un réseau en matière de sécurité",
+						"Skill9": "Apprendre les différents types d'adresses IP et la manière dont les utiliser",
+						"Skill10": "Apprendre à calculer un masque réseau"
+					}
+				},
+				"System_administration_project_popup": {
+					"Popup_title": "Mettre en place une infrastructure informatique",
+					"Summary_title3": "Résumé",
+					"Summary_content": "L'objectif de ce projet était d'apprendre à mettre en place une infrastructure informatique complète au sein d'une entreprise, les différents risques potentiels pour celle-ci et comment s'en protéger.",
+					"Skills_Worked_title3": "Compétences travaillées",
+					"Skills_Worked_content": {
+						"Skill1": "Travail d'équipe",
+						"Skill2": "Organisation",
+						"Skill3": "Communication",
+						"Skill4": "Connaitre les différents éléments qui composent une infrastructure informatique",
+						"Skill5": "Manipulation du Lan et du Wan",
+						"Skill6": "Mise en place d'un VPN fictif",
+						"Skill7": "Mise en place et configuration d'un Active Directory (Avec réplication)",
+						"Skill8": "Mise en place et configuration d'un pare-feu (pfsense)",
+						"Skill9": "Mise en place d'un DMZ",
+						"Skill10": "Mise en place d'un réseau d'ordinateurs liés à l'Active Directory",
+						"Skill11": "Mise en place d'un Centreon"
+					}
+				},
+				"Web_project_popup": {
+					"Popup_title": "Création et mise en ligne d'un site web",
+					"Summary_title3": "Résumé",
+					"Summary_content": "L'objectif de ce projet était de développer un site web en utilisant HTML, PHP, CSS et JavaScript. L'objectif de ce site fictif était de permettre aux entreprises de publier elles-mêmes des offres de stage sur un site auquel les étudiants avaient facilement accès. Tous les accès devaient être filtrés via des comptes utilisateurs et les données contenues dans une base de données PHP sécurisée.",
+					"Skills_Worked_title3": "Compétences travaillées",
+					"Skills_Worked_content": {
+						"Skill1": "Travail d'équipe",
+						"Skill2": "Organisation",
+						"Skill3": "Communication",
+						"Skill4": "Apprendre le HTML",
+						"Skill5": "Apprendre le CSS",
+						"Skill6": "Apprendre le JavaScript",
+						"Skill7": "Apprendre le PHP",
+						"Skill8": "Savoir manipuler Apache HTTP",
+						"Skill9": "Apprendre les requêtes HTTP"
+					}
+				}
+			},
+			"Professional_projects_title2": "Projets professionnels",
+			"Professional_projects_content": {
+				"PowerShell_project_popup": {
+					"Popup_title": "PowerShell & Active Directory",
+					"Summary_title3": "Résumé",
+					"Summary_content": {
+						"Text1": "Le langage de scripting PowerShell m'a été principalement utile lors de mon stage à l'Institut de Cancérologie de Lorraine.",
+						"Text2": "Je l'ai utilisé pour créer plusieurs scripts qui interagissaient notamment avec le système Active Directory de l'hôpital afin de vérifier que les groupes d'utilisateurs ne contenaient pas d'erreurs qui auraient pu compromettre la sécurité de documents confidentiels de l'hôpital. De la même manière, celui-ci m'a également permis de vérifier les listes de diffusions concernant des services complets d'employés, puis dans le projet sur les performances applicatives qui vous est présenté après."
+					},
+					"Skills_Worked_title3": "Compétences travaillées",
+					"Skills_Worked_content": {
+						"Skill1": "Apprentissage en autonomie",
+						"Skill2": "Organisation",
+						"Skill3": "Communication des résultats",
+						"Skill4": "Réalisation de documentation",
+						"Skill5": "Génération automatique de rapports avec envoie par mail",
+						"Skill6": "Programmation en PowerShell",
+						"Skill7": "Création de diagrammes UML",
+						"Skill8": "Manipuler des CSV et des fichiers Excel avec PowerShell",
+						"Skill9": "Formation du personnel au maintient de ces scripts"
+					}
+				},
+				"Performance_project_popup": {
+					"Popup_title": "PowerShell et performances applicatives",
+					"Summary_title3": "Résumé",
+					"Summary_content": "L'objectif de ce projet était de développer un robot effectuant des actions identiques à celles d'un utilisateur sur une application. Ce robot lançait une application, ouvrait différent menus et réalisait des actions graphiques qu'un utilisateur pourrait faire au quotidien, récupérait le temps de chargement des différents menus de l'application et envoyait ensuite ses données vers une base de données Oracle. Le logiciel de supervision ServiceNav de l'Institut de Cancérologie de Lorraine pouvait alors utiliser ces données pour produire des graphiques de performance de l'application. De cette manière, le support informatique pouvait anticiper les lenteurs avant que les utilisateurs n'appellent pour les signaler.",
+					"Skills_Worked_title3": "Compétences travaillées",
+					"Skills_Worked_content": {
+						"Skill1": "Travail en autonomie",
+						"Skill2": "Organisation",
+						"Skill3": "Communication des résultats",
+						"Skill4": "Réalisation de documentation",
+						"Skill5": "Création de diagrammes UML",
+						"Skill6": "Progammation en PowerShell avec AutoIt (sous forme d'addon PowerShell)",
+						"Skill7": "Connexion de base de données à PowerShell",
+						"Skill8": "Connexion entre une solution de supervision et une base de données",
+						"Skill9": "Formation du personnel au maintient de ce script"
+					}
+				},
+				"Monitoring_project_popup": {
+					"Popup_title": "Installation et configuration de supervisions",
+					"Summary_title3": "Résumé",
+					"Summary_content": "Lors de mes précédents stages, j'ai eu l'occasion de mettre en place deux solutions de monitoring : Zabbix et ServiceNav. Ces solutions récupèrent les données de performance des différents serveurs informatiques et produisent ensuite des graphiques pour nous informer de l'évolution de leur état. En cas de problème, une alerte est envoyée pour prévenir l'utilisateur que certaines actions doivent être entreprises sur les serveurs avant que des problèmes plus graves ne surviennent.",
+					"Skills_Worked_title3": "Compétences travaillées",
+					"Skills_Worked_content": {
+						"Skill1": "Travail d'équipe",
+						"Skill2": "Organisation",
+						"Skill3": "Communication",
+						"Skill4": "Apprendre à anticiper les problèmes",
+						"Skill5": "Utilisation d'agents et du service SNMP sur Windows et Linux",
+						"Skill6": "Savoir mettre en place une solution de supervision"
+					}
+				},
+				"Cybersecurity_project_popup": {
+					"Popup_title": "Amélioration des règles de sécurité",
+					"Summary_title3": "Résumé",
+					"Summary_content": "L'objectif de ce projet était d'identifier les failles du système de sécurité de l'Institut de Cancérologie de Lorraine, notamment autour de la politique des mots de passe. Pour améliorer le système, j'ai réduit le délai d'expiration des mots de passe des utilisateurs à 90 jours pour tous les utilisateurs. L'utilisateur voyait apparaitre des popups lui signalant que sont mot de passe allait expirer 1 mois, 2 semaines, 1 semaine, 2 jours puis 24 heures avant l'expiration. Ce projet comprenait également la vérification scénarisée des accès des utilisateurs afin que seuls les utilisateurs autorisés puissent accéder aux documents confidentiels de chaque service hospitaliers.",
+					"Skills_Worked_title3": "Compétences travaillées",
+					"Skills_Worked_content": {
+						"Skill1": "Travail d'équipe",
+						"Skill2": "Travail en autonomie",
+						"Skill3": "Organisation",
+						"Skill4": "Communication",
+						"Skill5": "Comprendre comment s'adresser de manière simple et synthétique aux utilisateurs",
+						"Skill6": "Générer des popups graphiques avec PowerShell via une GPO"
+					}
+				},
+				"VMware_project_popup": {
+					"Popup_title": "ESXi et anciens serveurs",
+					"Summary_title3": "Résumé",
+					"Summary_content": {
+						"Text1": "L'objectif de ce projet était de transformer 2 serveurs reconditionnés(Dell PowerEdge R430 (2014) & HP ProLiant DL360 G7 (2012)). en serveurs ESXi gérés par vCenter.",
+						"Text2": "Pour ce projet, j'ai d'abord dû mettre à jour les composants physiques des serveurs, qui étaient très anciens, puis procéder à la msie à jour des drivers, avant d'installer les ESXi.",
+						"Text3": "J'ai ensuite mis en place l'infrastructure complète qui est aujourd'hui utilisée chez DEFI Informatique en interne."
+					},
+					"Skills_Worked_title3": "Compétences travaillées",
+					"Skills_Worked_content": {
+						"Skill1": "Travail d'équipe",
+						"Skill2": "Travail en autonomie",
+						"Skill3": "Organisation",
+						"Skill4": "Communication",
+						"Skill5": "Recherche de licences d'occasion à bas prix",
+						"Skill6_text": "Connaissance poussées en gestion de serveurs et en virtualisation :",
+						"Skill6_content": {
+							"Skill6_1": "Mettre en place un système RAID-5",
+							"Skill6_2": "Configurer et utiliser IDRAC et ILO",
+							"Skill6_3": "Rendre compatibles ESXi 7.0 et ESXi 6.5 sous un même vCenter",
+							"Skill6_4": "Configurer un serveur Active Directory",
+							"Skill6_5": "Superviser des serveurs et des machines virtuelles",
+						}
+					}
+				},
+				"Docker_project_popup": {
+					"Popup_title": "Installation d'application web",
+					"Summary_title3": "Résumé",
+					"Summary_content": "Le principal avantage de la conteneurisation des applications est le gain de performance qui en résulte. Dans le cadre de ce projet, j'ai mis en place deux machines virtuelles sous Debian 11, chacune hébergeant un Portainer. Leurs rôles respectifs étaient d'héberger, pour le premier, les applications conteneurisées (en particulier GLPI et Bookstack), et, pour le second, un reverse proxy NGINX, permettant un accès sécurisé depuis l'extérieur de l'entreprise.",
+					"Skills_Worked_title3": "Compétences travaillées",
+					"Skills_Worked_content": {
+						"Skill1": "Apprentissage en autonomie",
+						"Skill2": "Travail d'équipe",
+						"Skill3": "Organisation",
+						"Skill4": "Communication",
+						"Skill5": "Améliorer mes compétences en Docker",
+						"Skill6": "Apprendre à utiliser Portainer",
+						"Skill7": "Installation et configuration de NGINX",
+						"Skill8": "Installation et configuration de GLPI",
+						"Skill9": "Installation et configuration de Bookstack"
+					}
+				}
+			}
+		},
+		"Travels": {
+			"Travels_title1": "Voyages",
+			"Italy_title2": "Italie",
+			"Italy_content": {
+				"Text1": "J'ai effectué plusieurs voyages en Italie dans ma vie, que ce soit à l'école ou en famille. Ces voyages m'ont permis de pratiquer la langue locale et de m'ouvrir à la magnifique culture italienne.",
+				"Text2": "J'ai notamment eu l'occasion d'aller dans des villes connues telles que Rome, Venise, Herculanum, Pompei mais aussi dans des villes moins connues, comme Rimini, Bellaria Igea Marina et Bellariva."
+			},
+			"Spain_title2": "Espagne",
+			"Spain_content": "Il y a quelques années, j'ai eu l'occasion d'aller en Espagne, dans la magnifique ville de Salou, où j'ai eu l'occasion de découvrir la culture locale ainsi que de magnifiques bâtiments tels que la tour Vella."
+		},
+		"Contact": {
+			"Contact_title1": "Contact",
+			"Contact_intro": "N'hésitez pas à me contacter.",
+			"My_details": {
+				"Name": "Jolly Quentin",
+				"Address": "18 Lotissement le grand jardin, 54670, Malleloy, France",
+				"Phone": "+33 7 81 70 56 39",
+				"Whatsapp": "+33 7 81 70 56 39",
+				"Email": "quentin.jolly.pro@gmail.com",
+				"Linkedin_text": "Mon profil LinkedIn"
+			},
+			"Contact_form": {
+				"Last_name": "Nom*",
+				"First_name": "Prénom*",
+				"Society": "Société*",
+				"Phone": "Numéro de téléphone*",
+				"Email": "Adresse e-mail*",
+				"Subject": "Sujet du message*",
+				"Message": "Message*"
+			}
+		}
+	}
+}

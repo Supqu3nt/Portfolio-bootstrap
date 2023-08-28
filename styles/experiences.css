@@ -1,0 +1,35 @@
+/* Start CSS experiences*/
+.chevron-icon_experiences {
+  transition: transform 0.5s ease;
+}
+
+.chevron-down_experiences {
+  transform: rotate(90deg);
+}
+
+.experiences_pointer {
+	cursor: pointer;
+}
+
+@keyframes slideDown_experiences {
+  0% { opacity: 0; transform: translateY(-20px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideUp_experiences {
+  0% { opacity: 1; transform: translateY(0); }
+  100% { opacity: 0; transform: translateY(-20px); }
+}
+
+.details_experiences_div {
+  display: none;
+}
+
+.show_details_experiences_div {
+  animation: slideDown_experiences 0.3s ease;
+}
+
+.hide_details_experiences_div {
+  animation: slideUp_experiences 0.3s ease;
+}
+/* End CSS experiences*/

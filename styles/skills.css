@@ -1,0 +1,35 @@
+/* Start CSS skills*/
+.chevron-icon_skills {
+  transition: transform 0.5s ease;
+}
+
+.chevron-down_skills {
+  transform: rotate(90deg);
+}
+
+.skills_pointer {
+	cursor: pointer;
+}
+
+@keyframes slideDown_skills {
+  0% { opacity: 0; transform: translateY(-20px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideUp_skills {
+  0% { opacity: 1; transform: translateY(0); }
+  100% { opacity: 0; transform: translateY(-20px); }
+}
+
+.details_skills_div {
+  display: none;
+}
+
+.show_details_skills_div {
+  animation: slideDown_skills 0.3s ease;
+}
+
+.hide_details_skills_div {
+  animation: slideUp_skills 0.3s ease;
+}
+/* End CSS skills*/

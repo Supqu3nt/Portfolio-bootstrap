@@ -1,0 +1,34 @@
+.img-shadow {
+	transition: box-shadow 0.5s ease-in-out, border-radius 0.5s ease-in-out;
+	border-radius: 10px;
+}
+
+.img-shadow:hover {
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+	cursor: pointer;
+	border-radius: 50px;
+}
+
+/* Style pour l'overlay semi-transparent */
+.modal-overlay {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.5); /* Couleur d'arrière-plan semi-transparente */
+	display: none;
+}
+/* Style pour afficher l'overlay lorsque la fenêtre contextuelle est ouverte */
+	body.modal-open .modal-overlay {
+	display: block;
+}
+
+body.modal-open {
+      overflow: hidden;
+}
+
+.modal-body-scrollable {
+      max-height: calc(100vh - 240px); /* Ajustez cette valeur en fonction de votre contenu */
+      overflow-y: auto;
+}
